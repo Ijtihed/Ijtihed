@@ -5,9 +5,9 @@
 
 -  I’m currently working on **Amos Rex Open Project competition.**
 
--  I’m currently learning **C++ and React.js.**
+-  I’m currently learning **C++ and React.js.** 💞
 
--  I’m looking to collaborate on **Cool game ideas! 👾**.
+-  I’m looking to collaborate on **Cool game ideas! 👾**
 
 -  All of my projects are available at [ijtihed.com](ijtihed.com)
 
