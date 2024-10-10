@@ -5,15 +5,15 @@
 
 - 🔭 I’m currently working on **Amos Rex Open Project competition.**
 
-- 🌱 I’m currently learning **C++, React.js.**
+- 🌱 I’m currently learning **C++ and React.js.**
 
-- 👯 I’m looking to collaborate on **Computer Vision projects.**
+- 👯 I’m looking to collaborate on **Cool game ideas! 👾**.
 
 - 👨‍💻 All of my projects are available at [ijtihed.com](ijtihed.com)
 
 - 📫 How to reach me **ijtihed.kilani@aalto.fi**
 
-- ⚡ Fun fact **I am 6'6.**
+- ⚡ Fun fact **I am 6'6. 👿**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
