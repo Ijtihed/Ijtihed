@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ijtihed&label=Profile%20views&color=0e75b6&style=flat" alt="ijtihed" /> </p>
 
--  I’m currently working on **Blood Pivot.**
+-  I’m currently working on **[Blood Pivot](https://store.steampowered.com/app/2384470/Blood_Pivot/)**
 
 -  I’m currently learning **C++ and React.js.** 💞
 
