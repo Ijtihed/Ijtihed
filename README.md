@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ijtihed&label=Profile%20views&color=0e75b6&style=flat" alt="ijtihed" /> </p>
 
--  I’m currently working on **Amos Rex Open Project competition.**
+-  I’m currently working on **Blood Pivot.**
 
 -  I’m currently learning **C++ and React.js.** 💞
 
