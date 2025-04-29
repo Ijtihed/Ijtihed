@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ijtihed</h1>
-<h3 align="center">Software Engineer @ Sensofusion focusing on Siumations Systems and Backend Engineering</h3>
+<h3 align="center">Software Engineer @ Sensofusion focusing on Simulations Systems and Backend Engineering</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ijtihed&label=Profile%20views&color=0e75b6&style=flat" alt="ijtihed" /> </p>
 
